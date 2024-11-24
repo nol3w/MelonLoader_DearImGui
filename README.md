@@ -1,1 +1,1 @@
-Melon loader mod base with Dear ImGui menu by using interprocess communication
+Melon loader mod base with Dear ImGui menu using interprocess communication
