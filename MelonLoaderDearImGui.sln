@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MelonLoaderMod", "MashBoxMod\MelonLoaderMod.csproj", "{40D7AAFD-AB3B-400D-B195-FC9E421CEB20}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MelonLoaderMod_UI", "MashBoxModUI\ImGui DirectX 11 Kiero Hook.vcxproj", "{04B17470-CB82-4724-904B-25445926AB86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40D7AAFD-AB3B-400D-B195-FC9E421CEB20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D7AAFD-AB3B-400D-B195-FC9E421CEB20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D7AAFD-AB3B-400D-B195-FC9E421CEB20}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{40D7AAFD-AB3B-400D-B195-FC9E421CEB20}.Debug|x64.Build.0 = Debug|Any CPU
+		{40D7AAFD-AB3B-400D-B195-FC9E421CEB20}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{40D7AAFD-AB3B-400D-B195-FC9E421CEB20}.Debug|x86.Build.0 = Debug|Any CPU
+		{40D7AAFD-AB3B-400D-B195-FC9E421CEB20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D7AAFD-AB3B-400D-B195-FC9E421CEB20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40D7AAFD-AB3B-400D-B195-FC9E421CEB20}.Release|x64.ActiveCfg = Release|Any CPU
+		{40D7AAFD-AB3B-400D-B195-FC9E421CEB20}.Release|x64.Build.0 = Release|Any CPU
+		{40D7AAFD-AB3B-400D-B195-FC9E421CEB20}.Release|x86.ActiveCfg = Release|Any CPU
+		{40D7AAFD-AB3B-400D-B195-FC9E421CEB20}.Release|x86.Build.0 = Release|Any CPU
+		{04B17470-CB82-4724-904B-25445926AB86}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{04B17470-CB82-4724-904B-25445926AB86}.Debug|Any CPU.Build.0 = Debug|x64
+		{04B17470-CB82-4724-904B-25445926AB86}.Debug|x64.ActiveCfg = Debug|x64
+		{04B17470-CB82-4724-904B-25445926AB86}.Debug|x64.Build.0 = Debug|x64
+		{04B17470-CB82-4724-904B-25445926AB86}.Debug|x86.ActiveCfg = Debug|Win32
+		{04B17470-CB82-4724-904B-25445926AB86}.Debug|x86.Build.0 = Debug|Win32
+		{04B17470-CB82-4724-904B-25445926AB86}.Release|Any CPU.ActiveCfg = Release|x64
+		{04B17470-CB82-4724-904B-25445926AB86}.Release|Any CPU.Build.0 = Release|x64
+		{04B17470-CB82-4724-904B-25445926AB86}.Release|x64.ActiveCfg = Release|x64
+		{04B17470-CB82-4724-904B-25445926AB86}.Release|x64.Build.0 = Release|x64
+		{04B17470-CB82-4724-904B-25445926AB86}.Release|x86.ActiveCfg = Release|Win32
+		{04B17470-CB82-4724-904B-25445926AB86}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {293B4F92-737E-411C-ABCE-4BB6CB2800C5}
+	EndGlobalSection
+EndGlobal
